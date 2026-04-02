@@ -29,8 +29,8 @@ I help businesses and individuals turn ideas into functional, high-performing we
 
 ---
 
-## 📈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?akpabioidaresit09-hue=[akpabioidaresit09-hue]&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akpabioidaresit09-hue&theme=radical)](https://git.io/streak-stats)
+
 
 ---
 
