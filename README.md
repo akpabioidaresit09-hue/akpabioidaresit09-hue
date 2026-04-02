@@ -19,14 +19,19 @@ I help businesses and individuals turn ideas into functional, high-performing we
 
 ### 1. **Bookmate**
 * **Goal:** Built a fully responsive site for authors to publish their books and readers to find and purchase books of their choice.
-* **Tech:** React & Stripe API
 * **🔗 [View Live Demo](https://bookmate.page.gd).**
 
 ### 2. **CampusMart**
 * **Goal:** A marketplace for Nigerian students to buy and sell products.
-* **Tech:** HTML, Tailwind CSS, JavaScript
 * **🔗 [View Live Demo](https://mycampusmart.kesug.com)**
 
+### 3. **Vaultly**
+* **Goal:** Built a savings platforms that allow users to own a single and joint account and save money under flexible, targeted and fixed savings plans.
+* **🔗 [View Live Demo](https://vaultly.gt.tc).**
+
+### 4. **TheStarsChurch**
+* **Goal:** Built a functional church platforms with full details of the institution.
+* **🔗 [View Live Demo](https://thestarschurch.gt.tc).**
 ---
 
 ![Your GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=akpabioidaresit09-hue&show_icons=true&theme=radical)
